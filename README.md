@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="br-pt">
+<html lang="PT-BR">
 
 <head>
     <meta charset="utf-8">
-    <title> TesteAPI </title>
+    TesteAPI
 </head>
 
 <body>
@@ -18,7 +18,8 @@
     </div>
     <div>
         <p> Requisição usando método POST com uma resposta de falha</p>
-        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png" </div>
+        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png"> 
+    </div>
         
         <div>
             <p>Foi utilizado o NODE.js junto do framework EXPRESS para a criação da API.</p>
