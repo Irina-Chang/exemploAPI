@@ -21,9 +21,9 @@
         <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png" </div>
         
         <div>
-        Foi utilizado o NODE.js junto do framework EXPRESS para a criação da API.<br>
-        As IDE's utilizadas foram VS Code + Insomnia<br>
-    </div>
+            <p>Foi utilizado o NODE.js junto do framework EXPRESS para a criação da API.</p>
+            <p> As IDE's utilizadas foram VS Code + Insomnia</p>
+        </div>
 </body>
 
 </html>
