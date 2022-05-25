@@ -1,30 +1,25 @@
 <!DOCTYPE html>
-<html lang="PT-BR">
+<html lang="br-pt">
 
 <head>
     <meta charset="utf-8">
-    TesteAPI
+    <title> TesteAPI</title>
 </head>
 
 <body>
     <header>
         <h1> Construindo uma API</h1>
     </header>
-    
-    
     <div>
+<p> Exemplo de como criar uma API basica, usando Node.js.
+Ferramentas utilizadas : VS Code e Insomnia</p>
         <p> Requisição usando o método POST com uma resposta positiva</p>
         <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryCheia.png">
     </div>
     <div>
         <p> Requisição usando método POST com uma resposta de falha</p>
-        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png"> 
-    </div>
-        
-        <div>
-            <p>Foi utilizado o NODE.js junto do framework EXPRESS para a criação da API.</p>
-            <p> As IDE's utilizadas foram VS Code + Insomnia</p>
-        </div>
+        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png" > </div>
 </body>
 
+# exemploAPI
 </html>
