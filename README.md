@@ -14,11 +14,11 @@
     
     <div>
         <p> Requisição usando o método POST com uma resposta positiva</p>
-        <img src="./imagens/queryCheia.png">
+        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryCheia.png">
     </div>
     <div>
         <p> Requisição usando método POST com uma resposta de falha</p>
-        <img src="./imagens/queryVazia.png"> 
+        <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png"> 
     </div>
         
         <div>
