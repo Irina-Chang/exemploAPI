@@ -19,6 +19,9 @@ Ferramentas utilizadas : VS Code e Insomnia</p>
     <div>
         <p> Requisição usando método POST com uma resposta de falha</p>
         <img src="https://github.com/Irina-Chang/exemploAPI/blob/master/imagens/queryVazia.png" > </div>
+    <p> 
+        <br> Este projeto foi desenvolvido por Irina Chang e Deivid Almeida
+        <br> <link = https://github.com/Deividev365> </p>
 </body>
 
 # exemploAPI
